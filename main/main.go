@@ -1,7 +1,13 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/roychen25/gobyexample"
+)
 
 func main() {
 	fmt.Println("Hello, World!")
+
+	gobyexample.PrintValues()
 }
