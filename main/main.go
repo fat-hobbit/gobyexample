@@ -8,6 +8,8 @@ import (
 
 func main() {
 	fmt.Println("Hello, World!")
+	fmt.Println()
 
-	gobyexample.PrintValues()
+	gobyexample.PrintSomeValues()
+	gobyexample.PrintSomeVariables()
 }

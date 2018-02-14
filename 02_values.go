@@ -2,8 +2,10 @@ package gobyexample
 
 import "fmt"
 
-// PrintValues - print some operations on basic types
-func PrintValues() {
+// PrintSomeValues - print some operations on basic types
+func PrintSomeValues() {
+	fmt.Println("Running function PrintSomeValues()")
+
 	// String concatenation
 	fmt.Println("Go" + "lang")
 
@@ -15,4 +17,6 @@ func PrintValues() {
 	fmt.Println(true && false)
 	fmt.Println(true || false)
 	fmt.Println(!false)
+
+	fmt.Println()
 }
