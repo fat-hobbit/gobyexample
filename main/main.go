@@ -10,6 +10,7 @@ func main() {
 	fmt.Println("Hello, World!")
 	fmt.Println()
 
-	gobyexample.PrintSomeValues()
-	gobyexample.PrintSomeVariables()
+	// gobyexample.PrintSomeValues()
+	// gobyexample.PrintSomeVariables()
+	gobyexample.PrintSomeConstants()
 }
