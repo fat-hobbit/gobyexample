@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.RunSwitchStatements()
+	gobyexample.PrintSomeArrays()
 }
