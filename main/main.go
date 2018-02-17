@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.WorkWithRanges()
+	gobyexample.CallFunctions()
 }
