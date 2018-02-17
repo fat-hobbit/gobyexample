@@ -8,21 +8,21 @@ func WorkWithMaps() {
 	// `make(map[key-type]val-type`
 	m := make(map[string]int)
 
-	// set key-value pairs
+	// set key/value pairs
 	m["k1"] = 7
 	m["k2"] = 13
 
-	// print all key-value pairs
+	// print all key/value pairs
 	fmt.Println("map:", m)
 
 	// get value associated with key
 	v1 := m["k1"]
 	fmt.Println("v1:", v1)
 
-	// get number of key-value pairs in a map
+	// get number of key/value pairs in a map
 	fmt.Println("len:", len(m))
 
-	// remove key-value pairs from a map with builtin `delete` function
+	// remove key/value pairs from a map with builtin `delete` function
 	delete(m, "k2")
 	fmt.Println("map:", m)
 
