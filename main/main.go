@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.CallFunctions()
+	gobyexample.MultipleReturnValues()
 }
