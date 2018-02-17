@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.WorkWithSlices()
+	gobyexample.WorkWithMaps()
 }
