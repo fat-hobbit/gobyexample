@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.WorkWithMaps()
+	gobyexample.WorkWithRanges()
 }
