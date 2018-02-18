@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.CallVariadicFunctions()
+	gobyexample.ClosureDemo()
 }
