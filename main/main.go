@@ -1,9 +1,11 @@
 package main
 
 import (
+	"fmt"
+
 	"github.com/roychen25/gobyexample"
 )
 
 func main() {
-	gobyexample.ClosureDemo()
+	fmt.Println(gobyexample.Factorial(5))
 }
