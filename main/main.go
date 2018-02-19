@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.PointersDemo()
+	gobyexample.StructsDemo()
 }
