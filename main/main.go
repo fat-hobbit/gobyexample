@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.GoroutinesDemo()
+	gobyexample.ChannelsDemo()
 }
