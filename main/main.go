@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.ChannelSyncDemo()
+	gobyexample.ChannelDirectionsDemo()
 }
