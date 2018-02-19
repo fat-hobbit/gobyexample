@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.ErrorsDemo()
+	gobyexample.GoroutinesDemo()
 }
