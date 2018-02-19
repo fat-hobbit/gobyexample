@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.MethodsDemo()
+	gobyexample.InterfacesDemo()
 }
