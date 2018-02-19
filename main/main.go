@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.ChannelsDemo()
+	gobyexample.ChannelBufferingDemo()
 }
