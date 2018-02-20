@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.NonBlockingChannelOperationsDemo()
+	gobyexample.ClosingChannelsDemo()
 }
