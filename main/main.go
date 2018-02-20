@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.SelectDemo()
+	gobyexample.TimeoutsDemo()
 }
