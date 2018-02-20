@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.TimeoutsDemo()
+	gobyexample.NonBlockingChannelOperationsDemo()
 }
