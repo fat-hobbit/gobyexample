@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.ClosingChannelsDemo()
+	gobyexample.RangeOverChannelsDemo()
 }
