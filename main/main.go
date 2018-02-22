@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.WorkerPoolsDemo()
+	gobyexample.RateLimitingDemo()
 }
