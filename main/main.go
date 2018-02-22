@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.RateLimitingDemo()
+	gobyexample.AtomicCountersDemo()
 }
