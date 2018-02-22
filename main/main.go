@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.TickersDemo()
+	gobyexample.WorkerPoolsDemo()
 }
