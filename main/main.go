@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.SortBuiltinsDemo()
+	gobyexample.SortingByFunctionsDemo()
 }
