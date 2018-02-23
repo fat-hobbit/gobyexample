@@ -1,7 +1,5 @@
 package gobyexample
 
-import "os"
-
 // PanicDemo - demonstrates panics
 func PanicDemo() {
 	// A panic typically means something went unexpectedly wrong.
@@ -14,8 +12,9 @@ func PanicDemo() {
 	// wherever possible.
 	// A common use of panic is to abort if a function returns an error
 	// value that we don't know how to (or want to) handle.
-	_, err := os.Create("/tmp/file")
-	if err != nil {
-		panic(err)
-	}
+
+	// _, err := os.Create("/tmp/file")
+	// if err != nil {
+	// 	panic(err)
+	// }
 }
