@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.SortingByFunctionsDemo()
+	gobyexample.PanicDemo()
 }
