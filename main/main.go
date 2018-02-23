@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.StatefulGoroutinesDemo()
+	gobyexample.SortBuiltinsDemo()
 }
