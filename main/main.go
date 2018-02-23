@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.PanicDemo()
+	gobyexample.DeferDemo()
 }
