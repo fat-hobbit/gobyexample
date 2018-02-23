@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.StringFunctionsDemo()
+	gobyexample.StringFormattingDemo()
 }
