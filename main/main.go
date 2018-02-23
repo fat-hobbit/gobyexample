@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.CollectionFunctionsDemo()
+	gobyexample.StringFunctionsDemo()
 }
