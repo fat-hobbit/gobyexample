@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.JSONDemo()
+	gobyexample.TimeDemo()
 }
