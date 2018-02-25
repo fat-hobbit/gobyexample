@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.RegexpDemo()
+	gobyexample.JSONDemo()
 }
