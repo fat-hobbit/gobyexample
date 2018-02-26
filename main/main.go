@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.NumberParsingDemo()
+	gobyexample.URLParsingDemo()
 }
