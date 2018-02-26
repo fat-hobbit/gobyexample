@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.RandomNumbersDemo()
+	gobyexample.NumberParsingDemo()
 }
