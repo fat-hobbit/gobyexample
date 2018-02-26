@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.EpochDemo()
+	gobyexample.TimeFormattingAndParsingDemo()
 }
