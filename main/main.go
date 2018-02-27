@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.LineFiltersDemo()
+	gobyexample.CommandLineArgumentsDemo()
 }
