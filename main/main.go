@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.Base64EncodingDemo()
+	gobyexample.ReadFilesDemo()
 }
