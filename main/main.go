@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.SHA1HashesDemo()
+	gobyexample.Base64EncodingDemo()
 }
