@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.ReadFilesDemo()
+	gobyexample.WriteFilesDemo()
 }
