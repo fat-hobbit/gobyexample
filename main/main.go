@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.EnvironmentVariablesDemo()
+	gobyexample.SpawningProcessesDemo()
 }
