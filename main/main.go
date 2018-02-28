@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.SignalsDemo()
+	gobyexample.ExitDemo()
 }
