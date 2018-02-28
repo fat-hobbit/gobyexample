@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	gobyexample.CommandLineFlagsDemo()
+	gobyexample.EnvironmentVariablesDemo()
 }
